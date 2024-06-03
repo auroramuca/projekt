@@ -5,6 +5,10 @@ public class Main {
     public int square_surphace(int a){
         return a*a;
     }
+
+    public int square_circumference(int a){
+        return a*4;
+    }
     public static void main(String[] args) {
 
     }
